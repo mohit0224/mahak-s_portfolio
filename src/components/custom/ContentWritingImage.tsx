@@ -18,6 +18,7 @@ export function ContentWritingImage() {
 			<div className="columns-2 gap-4 sm:columns-3">
 				{images.map((imageUrl, idx) => (
 					<Image
+						key={idx}
 						priority
 						className="mb-4 size-full rounded-lg object-contain border shadow-md"
 						src={imageUrl}
