@@ -8,7 +8,7 @@ const About = () => {
 				<div className="flex items-center gap-2">
 					<div>
 						<h1 className="text-3xl sm:text-4xl md:text-5xl">
-							<strong>Hi, I'm Mahak 👋</strong>
+							<strong>Hi, I&apos;m Mahak 👋</strong>
 						</h1>
 						<p className="mt-2 text-sm sm:text-lg leading-snug text-pretty">
 							Freelancer / Media Student <br />I am a sub editor, working in the
@@ -33,18 +33,18 @@ const About = () => {
 				<div className="mt-5">
 					<h2 className="font-semibold text-xl">About</h2>
 					<p className="mt-2 text-sm text-pretty text-justify text-muted-foreground ">
-						I'm Mahak, a postgraduated in journalism and mass communication with
-						3 years of valuable experience in the news channel industry. My
+						I&apos;m Mahak, a postgraduated in journalism and mass communication
+						with 3 years of valuable experience in the news channel industry. My
 						journey has involved anchoring, voice-over work, and content writing
-						in both Hindi and Punjabi languages. I'm passionate about
+						in both Hindi and Punjabi languages. I&apos;m passionate about
 						storytelling and connecting with audiences through diverse media
 						platforms. <br /> My experience in the news channel field has honed
 						my skills in delivering impactful news content and engaging with
-						viewers effectively. Whether it's presenting breaking news updates,
-						crafting compelling stories, or delivering captivating voice-overs,
-						I strive to bring authenticity and a unique perspective to every
-						project. I am driven by a passion for communication and a commitment
-						to excellence in every aspect of my work.
+						viewers effectively. Whether it&apos;s presenting breaking news
+						updates, crafting compelling stories, or delivering captivating
+						voice-overs, I strive to bring authenticity and a unique perspective
+						to every project. I am driven by a passion for communication and a
+						commitment to excellence in every aspect of my work.
 					</p>
 				</div>
 			</div>

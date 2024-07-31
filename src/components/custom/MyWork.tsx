@@ -39,7 +39,7 @@ const MyWork = () => {
 									target="_blank"
 									href={"https://youtu.be/SJaYifNDWkQ?si=ROPmmDl8-y7W7b6P"}
 								>
-									2 ਮਿੰਟਾਂ 'ਚ ਦੇਖੋ ਇਸ ਸਮੇਂ ਦੀਆਂ 10 ਵੱਡੀਆਂ ਖਬਰਾਂ | 2 Minute 10
+									2 ਮਿੰਟਾਂ &apos;ਚ ਦੇਖੋ ਇਸ ਸਮੇਂ ਦੀਆਂ 10 ਵੱਡੀਆਂ ਖਬਰਾਂ | 2 Minute 10
 									News | Trending News | || Ritam Punjabi
 								</Link>
 							</li>
@@ -67,7 +67,7 @@ const MyWork = () => {
 									target="_blank"
 									href={"https://www.youtube.com/watch?v=Ccpv4kU2MDE"}
 								>
-									ਦਿਨ ਦਿਹਾੜੇ ਕਤਲ ਤੇ ਡਾਕੇ, ਚੋਣਾਂ 'ਚ ਰੁੱਝੇ ਨੇ ਪੰਜਾਬ ਦੇ ਰਾਖੇ ||
+									ਦਿਨ ਦਿਹਾੜੇ ਕਤਲ ਤੇ ਡਾਕੇ, ਚੋਣਾਂ &apos;ਚ ਰੁੱਝੇ ਨੇ ਪੰਜਾਬ ਦੇ ਰਾਖੇ ||
 									Ritam Punjabi
 								</Link>
 							</li>
@@ -84,7 +84,7 @@ const MyWork = () => {
 									target="_blank"
 									href={"https://www.youtube.com/watch?v=CsW2-eVPVyM"}
 								>
-									2 ਮਿੰਟਾਂ 'ਚ ਦੇਖੋ ਇਸ ਸਮੇਂ ਦੀਆਂ 10 ਵੱਡੀਆਂ ਖਬਰਾਂ | 2 Minute 10
+									2 ਮਿੰਟਾਂ &apos;ਚ ਦੇਖੋ ਇਸ ਸਮੇਂ ਦੀਆਂ 10 ਵੱਡੀਆਂ ਖਬਰਾਂ | 2 Minute 10
 									News | Trending News | || Ritam Punjabi
 								</Link>
 							</li>
